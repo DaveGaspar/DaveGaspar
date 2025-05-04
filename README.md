@@ -1,3 +1,28 @@
+<!--
+![image](https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Shizuku_Tsukishima_Holding_C_Book.jpg)
+
+<img src="https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Shizuku_Tsukishima_Holding_C_Book.jpg" alt="Image" style="width:40%; height:auto;">
+---
+
+![image](https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Marin_Kitagawa_Holds_Modern_CPP_Portuguese.png)
+
+<img src="https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Marin_Kitagawa_Holds_Modern_CPP_Portuguese.png" alt="Image" style="width:50%; height:auto;">
+
+---
+
+![image](https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Sousou_no_Frieren_c%2B%2B.png)
+
+<img src="https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Sousou_no_Frieren_c%2B%2B.png" alt="Image" style="width:50%; height:auto;">
+
+---
+![image](https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Sakurajima_Mai_Holding_The_C%2B%2B_Programming_Language.jpg)
+
+<img src="https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Sakurajima_Mai_Holding_The_C%2B%2B_Programming_Language.jpg" alt="Image" style="width:50%; height:auto;">
+
+-->
+<img src="https://github.com/DaveGaspar/DaveGaspar/blob/main/assets/Shizuku_Tsukishima_Holding_C_Book.jpg" alt="Image" style="width:40%; height:auto;">
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br>An IoT-integrated climate monitoring system using Flask and Raspberry Pi as a Full Stack Developer & IoT Specialist at ClimateNet.<br><br>🤝 I’m looking to collaborate on<br>C++ and Qt desktop applications, IoT projects, or scalable backend systems using Python and web technologies.<br><br>🧠 I’m looking for help with<br>Further advancing skills in AI and machine learning, particularly practical applications and integrations in web or IoT environments.<br><br>🌱 I’m currently learning<br>AWS cloud services and IoT development, focusing on deploying scalable and connected systems.<br><br>💬 Ask me about<br>Building backend systems with FastAPI, integrating AI tools like ChatGPT and DeepSeek, or creating C++ desktop applications with Qt.<br><br>⚡ Fun fact<br>I use Arch, btw.
 
